@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fbf6fe78.chunk.css",
+    "main.js": "/static/js/main.c20f2cf6.chunk.js",
+    "main.js.map": "/static/js/main.c20f2cf6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c6d4dc0a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c6d4dc0a.js.map",
+    "static/js/2.f0b8f0b0.chunk.js": "/static/js/2.f0b8f0b0.chunk.js",
+    "static/js/2.f0b8f0b0.chunk.js.map": "/static/js/2.f0b8f0b0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.87307cea0bb66e6cbb96957693e71a51.js": "/precache-manifest.87307cea0bb66e6cbb96957693e71a51.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fbf6fe78.chunk.css.map": "/static/css/main.fbf6fe78.chunk.css.map",
+    "static/js/2.f0b8f0b0.chunk.js.LICENSE.txt": "/static/js/2.f0b8f0b0.chunk.js.LICENSE.txt",
+    "static/media/blackphone.png": "/static/media/blackphone.623eeff1.png",
+    "static/media/bluephone.png": "/static/media/bluephone.50da32e2.png",
+    "static/media/headsets.png": "/static/media/headsets.0da9dbf4.png",
+    "static/media/redphone.png": "/static/media/redphone.97b3bee4.png",
+    "static/media/watchProduct.png": "/static/media/watchProduct.ffa8ead7.png",
+    "static/media/whitephone.png": "/static/media/whitephone.be895ec2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6d4dc0a.js",
+    "static/js/2.f0b8f0b0.chunk.js",
+    "static/css/main.fbf6fe78.chunk.css",
+    "static/js/main.c20f2cf6.chunk.js"
+  ]
+}
